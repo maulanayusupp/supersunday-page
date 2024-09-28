@@ -15,7 +15,7 @@
 			<slot />
 
 			<!-- Footer -->
-			<!-- <the-footer /> -->
+			<the-footer />
 	</Html>
 </template>
 
