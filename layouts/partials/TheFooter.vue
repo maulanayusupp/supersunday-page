@@ -5,7 +5,7 @@
       <div class="xl:grid xl:grid-cols-3 xl:gap-8">
         <div>
 					<img class="h-7" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="Company name" />
-					<p class="text-sm text-gray-600 mt-3">
+					<p class="text-sm text-gray-600 mt-3 leading-6">
 						Super Sunday adalah brand skincare yang fokus pada perawatan kulit alami dengan bahan-bahan berkualitas tinggi. Kami percaya bahwa setiap orang berhak memiliki kulit yang sehat, cerah, dan terawat. Dengan produk yang diformulasikan secara khusus, Super Sunday memberikan perawatan kulit terbaik untuk Anda.
 					</p>
 				</div>
